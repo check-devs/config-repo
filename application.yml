@@ -1,9 +1,2 @@
 hello:
   say: Hello
-
-bye:
-  say: Bye
-
-is:
-  it:
-    working: Yes, it is!
