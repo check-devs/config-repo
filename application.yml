@@ -1,3 +1,5 @@
-spanner.name: from-remote
-hello:
-  say: Hello
+spanner:
+  instanceId: name-from-remote
+  databaseName: db-from-remote
+  configId: emulator-config
+  projectId: id-from-remote
